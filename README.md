@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @gouravnema
 - 👀 I’m interested in golang, javascript and everything about web and browsers.
-- 🌱 I’m currently learning statistics.
-- 💞️ I’m looking to collaborate on dev tools.
 - 📫 How to reach me? Email me on github@gourav.info ...
 
 <!---
